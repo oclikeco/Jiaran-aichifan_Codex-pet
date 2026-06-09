@@ -1,8 +1,8 @@
 # Jiaran-aichifan Codex Pet
 
-一个用于 Codex Desktop 的像素风自定义 Pet。角色名为 **嘉然艾池繁**，包含 idle 眨眼、左右跑动、挥手、等待、工作、失败、review 等状态动画。
+一个用于 Codex Desktop 的像素风自定义 Pet。角色名为 **嘉然艾池繁 v2**，包含 idle 眨眼、左右跑动、挥手、等待、坐下写字、失败、review 等状态动画。
 
-This is a pixel-art custom pet for Codex Desktop. The pet is named **嘉然艾池繁** and includes a full 8x9 spritesheet for Codex pet states.
+This is a pixel-art custom pet for Codex Desktop. The pet is named **嘉然艾池繁 v2** and includes a full 8x9 spritesheet for Codex pet states.
 
 ## Preview
 
@@ -37,7 +37,7 @@ mkdir -p ~/.codex/pets/jiaran-aichifan
 cp pet/pet.json pet/spritesheet.webp ~/.codex/pets/jiaran-aichifan/
 ```
 
-Then select **嘉然艾池繁** from Codex Desktop's pet settings. Restart Codex Desktop if the new pet does not appear immediately.
+Then select **嘉然艾池繁 v2** from Codex Desktop's pet settings. Restart Codex Desktop if the new pet does not appear immediately.
 
 ## Files
 
@@ -62,8 +62,8 @@ Rows:
 5. `jumping` using waving frames
 6. `failed`
 7. `waiting`
-8. `running`
-9. `review`
+8. `running` / working, sitting and writing
+9. `review`, eating then cheering, with no overlapping neighboring frames
 
 ## Copyright And Trademark Notice
 

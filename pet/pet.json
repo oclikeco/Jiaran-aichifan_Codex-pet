@@ -1,6 +1,6 @@
 {
   "id": "jiaran-aichifan",
-  "displayName": "嘉然艾池繁",
-  "description": "以嘉然形象为参考制作的像素风 Codex 桌面宠物，静止态睁蓝眼并穿插眨眼。",
+  "displayName": "嘉然艾池繁 v2",
+  "description": "以嘉然形象为参考制作的像素风 Codex 桌面宠物 v2，采用更统一的线条风格、坐下写字 working 状态和无重叠 review 行。",
   "spritesheetPath": "spritesheet.webp"
 }
